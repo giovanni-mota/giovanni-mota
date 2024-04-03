@@ -1,6 +1,6 @@
 <h1>
     Giovanni Mota - Softable
-  <img src="https://media.tenor.com/oVds8Dvp3hsAAAAj/cursed-dino.gif" width="50" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnVhOGd2cjZocmN3bjQyajl6emQ4czJ2czc3eXZscnozczNvcW9vbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eNAsjO55tPbgaor7ma/giphy.gif" width="30" />
 </h1>
 
 <h3>About</h3>
