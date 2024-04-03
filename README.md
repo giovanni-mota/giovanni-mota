@@ -1,6 +1,6 @@
 <h1>
     Giovanni Mota - Softable
-  <img src="[https://i.pinimg.com/originals/e5/93/ab/e593ab0589d5f1b389e4dfbcce2bce20.gif](https://media1.giphy.com/media/S3thLnRWEpRwq6iDIO/200w.gif?cid=6c09b95217gxc79zjdbe00rgb82mmjdhfmn5moe05yuyxfnr&ep=v1_gifs_search&rid=200w.gif&ct=g)" width="50" />
+  <img src="https://i.pinimg.com/originals/e5/93/ab/e593ab0589d5f1b389e4dfbcce2bce20.gif" width="50" />
 </h1>
 
 <h3>About</h3>
