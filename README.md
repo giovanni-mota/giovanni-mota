@@ -5,7 +5,7 @@
 
 <h3>About</h3>
 
-- 💻 &nbsp; Frontend Developer at Softable
+- 💻 &nbsp; Software Developer at Softable
 
 <!--
 **giovanni-mota/giovanni-mota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
